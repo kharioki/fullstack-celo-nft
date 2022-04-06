@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fullstack-celo-nft/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/fullstack-celo-nft/static/js/main.31e850df.chunk.js",
+    "main.js.map": "/fullstack-celo-nft/static/js/main.31e850df.chunk.js.map",
+    "runtime-main.js": "/fullstack-celo-nft/static/js/runtime-main.a80f8d61.js",
+    "runtime-main.js.map": "/fullstack-celo-nft/static/js/runtime-main.a80f8d61.js.map",
+    "static/css/2.a7b74125.chunk.css": "/fullstack-celo-nft/static/css/2.a7b74125.chunk.css",
+    "static/js/2.ebb8bb11.chunk.js": "/fullstack-celo-nft/static/js/2.ebb8bb11.chunk.js",
+    "static/js/2.ebb8bb11.chunk.js.map": "/fullstack-celo-nft/static/js/2.ebb8bb11.chunk.js.map",
+    "static/js/3.ec534f37.chunk.js": "/fullstack-celo-nft/static/js/3.ec534f37.chunk.js",
+    "static/js/3.ec534f37.chunk.js.map": "/fullstack-celo-nft/static/js/3.ec534f37.chunk.js.map",
+    "index.html": "/fullstack-celo-nft/index.html",
+    "static/css/2.a7b74125.chunk.css.map": "/fullstack-celo-nft/static/css/2.a7b74125.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/fullstack-celo-nft/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.ebb8bb11.chunk.js.LICENSE.txt": "/fullstack-celo-nft/static/js/2.ebb8bb11.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/fullstack-celo-nft/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/swan-origami.6c2f4a51.png": "/fullstack-celo-nft/static/media/swan-origami.6c2f4a51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80f8d61.js",
+    "static/css/2.a7b74125.chunk.css",
+    "static/js/2.ebb8bb11.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.31e850df.chunk.js"
+  ]
+}
